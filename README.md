@@ -1,4 +1,5 @@
 # 📂 ByKnive's Portfolio
+Welcome to my portfolio! In this repo you will find summaries of my data projects.
 ## 📖 Table of Contents
 - Power BI
 - Python
